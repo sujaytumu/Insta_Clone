@@ -59,24 +59,6 @@ Full-Stack Instagram Clone using MERN Stack and Socket.IO
 - 👍 Post Liked By Users Tracking
 - 😄 Emoji Integration via Emoji Mart
 
-**Image Storage**
-- 📷 Branch [dev-v3-cloudinary](https://github.com/jigar-sable/instagram-mern/tree/dev-v3-cloudinary): Utilizes Cloudinary for Image Storage
-- ☁️ Branch [dev-v2-aws](https://github.com/jigar-sable/instagram-mern/tree/dev-v2-aws): Leverages AWS S3 for Image Storage
-- 💾 Branch [dev-v1](https://github.com/jigar-sable/instagram-mern/tree/dev-v1): Relies on Local Storage Solution
-
-## Sneak Peek of Home Page 🙈 :
-![home](https://user-images.githubusercontent.com/64949957/159116089-cfc2b4c5-dc7d-4d4b-a0c8-668f89ce5412.png)
-
-<table>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116105-15b9425c-1fec-4a52-84ba-cf97eef93891.png" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116112-1c7dec3e-0f3a-45a8-83d3-6d6b9ee1d5de.png" alt="mockups" /></td>
-  </tr>
-  <tr>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116115-46f15626-372d-4349-8ef4-a04a70600dcc.png" alt="mockup" /></td>
-    <td><img src="https://user-images.githubusercontent.com/64949957/159116118-ac3d261b-eb50-4a7b-a8e6-cd1a0f5720de.png" alt="mockups" /></td>
-  </tr>
-</table>
 
 <h2>📬 Contact</h2>
 
